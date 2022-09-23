@@ -1,0 +1,22 @@
+#header {
+  display: flex;
+  justify-content: space-between;
+}
+
+#user {
+  width: 15%;
+}
+
+#user_button {
+  width: 100%;
+  height: 100%;
+}
+
+#library {
+  text-align: center;
+  width: 85%;
+}
+
+#library > h1 {
+  max-width: 100%;
+}
